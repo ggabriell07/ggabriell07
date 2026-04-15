@@ -135,6 +135,7 @@ Análise de incidentes, scripts SQL, homologação de ambientes, atendimento té
 
 ## Formação & Certificações
 
+Análise e Desenvolvimento de Sistemas - Estácio de Sá 2020
 Ciência de Dados · Descomplica Faculdade Digital · em andamento
 
 `ITIL v3 Foundation` `Apache Kafka` `Deep Learning & Neural Networks` `Cloud Computing` `SQL Oracle Database`
