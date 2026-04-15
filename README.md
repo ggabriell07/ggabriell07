@@ -83,6 +83,29 @@ Leitura e tradução de balancetes financeiros de condomínios via Claude Vision
 
 ---
 
+## Referências técnicas
+
+### [n8n-whatsapp-patterns](https://github.com/ggabriell07/n8n-whatsapp-patterns)
+Padrões práticos para integração de n8n com WhatsApp via Evolution API. Cobre descriptografia de mídia via HKDF, roteamento de intenção por LLM e gestão de estado de conversa multi-step — desenvolvidos em produção.
+
+`n8n` `Evolution API` `HKDF` `Baileys` `Conversational AI` `WhatsApp`
+
+---
+
+### [supabase-whatsapp-bot-schema](https://github.com/ggabriell07/supabase-whatsapp-bot-schema)
+Schema PostgreSQL para bots WhatsApp com LLM. Tabelas, queries de produção, RLS policies e indexes. Inclui score financeiro, previsão de estouro de limite e histórico JSONB para contexto de LLM.
+
+`PostgreSQL` `Supabase` `JSONB` `RLS` `SQL`
+
+---
+
+### [llm-extraction-prompts](https://github.com/ggabriell07/llm-extraction-prompts)
+Coleção de system prompts para extração estruturada de dados financeiros a partir de linguagem natural em português brasileiro. Extração de gasto, receita, análise de compra, classificação de intenção e geração de relatório.
+
+`Prompt Engineering` `System Prompt Design` `Structured Data Extraction` `LLM` `Portuguese NLP`
+
+---
+
 ## Experiência
 
 **Matera** · System Analyst · jul 2022 – presente
@@ -98,7 +121,6 @@ Análise de incidentes, scripts SQL, homologação de ambientes, atendimento té
 
 ## Formação & Certificações
 
-Análise e Desenvolvimento de Sistemas - Estácio - 2020
 Ciência de Dados · Descomplica Faculdade Digital · em andamento
 
 `ITIL v3 Foundation` `Apache Kafka` `Deep Learning & Neural Networks` `Cloud Computing` `SQL Oracle Database`
