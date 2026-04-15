@@ -106,6 +106,20 @@ Coleção de system prompts para extração estruturada de dados financeiros a p
 
 ---
 
+### [evolution-api-production-guide](https://github.com/ggabriell07/evolution-api-production-guide)
+Guia completo de deploy e operação da Evolution API v2 em produção — VPS Ubuntu com Easypanel. Cobre configuração de instância, webhook, tipos de mensagem, filtros essenciais, problemas comuns e monitoramento.
+
+`Evolution API` `WhatsApp` `Easypanel` `Docker` `Baileys` `n8n` `VPS`
+
+---
+
+### [portuguese-nlp-prompts](https://github.com/ggabriell07/portuguese-nlp-prompts)
+Prompts para NLP em português brasileiro informal — testados em produção. Resolução de datas relativas, normalização de valores monetários, contexto financeiro implícito, detecção de negação e extração de parcelamento.
+
+`Prompt Engineering` `NLP` `Portuguese` `LLM` `Structured Extraction` `Claude API`
+
+---
+
 ## Experiência
 
 **Matera** · System Analyst · jul 2022 – presente
