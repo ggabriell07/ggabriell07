@@ -100,7 +100,7 @@ Análise de incidentes, scripts SQL, homologação de ambientes, atendimento té
 
 Ciência de Dados · Descomplica Faculdade Digital · em andamento
 
-`ITIL v4 Foundation` `Apache Kafka` `Deep Learning & Neural Networks` `Cloud Computing` `SQL Oracle Database`
+`ITIL v3 Foundation` `Apache Kafka` `Deep Learning & Neural Networks` `Cloud Computing` `SQL Oracle Database`
 
 ---
 
