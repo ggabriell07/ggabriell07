@@ -2,7 +2,7 @@
 
 **System Analyst · AI Automation · LLM Applications**
 
-Trabalho com sustentação de sistemas críticos para o mercado financeiro e, paralelamente, construo projetos práticos com IA aplicada — do design de arquitetura ao produto em produção.
+Trabalho com sustentação de sistemas críticos para o mercado financeiro e, paralelamente, construo projetos práticos com IA aplicada do design de arquitetura ao produto em produção.
 
 ---
 
@@ -86,7 +86,7 @@ Leitura e tradução de balancetes financeiros de condomínios via Claude Vision
 ## Referências técnicas
 
 ### [n8n-whatsapp-patterns](https://github.com/ggabriell07/n8n-whatsapp-patterns)
-Padrões práticos para integração de n8n com WhatsApp via Evolution API. Cobre descriptografia de mídia via HKDF, roteamento de intenção por LLM e gestão de estado de conversa multi-step — desenvolvidos em produção.
+Padrões práticos para integração de n8n com WhatsApp via Evolution API. Cobre descriptografia de mídia via HKDF, roteamento de intenção por LLM e gestão de estado de conversa multi-step desenvolvidos em produção.
 
 `n8n` `Evolution API` `HKDF` `Baileys` `Conversational AI` `WhatsApp`
 
@@ -107,7 +107,7 @@ Coleção de system prompts para extração estruturada de dados financeiros a p
 ---
 
 ### [evolution-api-production-guide](https://github.com/ggabriell07/evolution-api-production-guide)
-Guia completo de deploy e operação da Evolution API v2 em produção — VPS Ubuntu com Easypanel. Cobre configuração de instância, webhook, tipos de mensagem, filtros essenciais, problemas comuns e monitoramento.
+Guia completo de deploy e operação da Evolution API v2 em produção VPS Ubuntu com Easypanel. Cobre configuração de instância, webhook, tipos de mensagem, filtros essenciais, problemas comuns e monitoramento.
 
 `Evolution API` `WhatsApp` `Easypanel` `Docker` `Baileys` `n8n` `VPS`
 
