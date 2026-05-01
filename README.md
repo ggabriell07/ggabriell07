@@ -62,7 +62,7 @@ Trabalho com sustentação de sistemas críticos para o mercado financeiro e, pa
 
 ## Projetos
 
-### [Flecto](https://github.com/ggabriell07/flecto)
+### [Flectos](https://github.com/ggabriell07/flecto)
 Assistente financeiro comportamental operando via WhatsApp. Sistema multimodal em produção — processa texto, áudio e imagem, orquestra LLMs com histórico de conversa persistido para análise comportamental financeira.
 
 `LLM Orchestration` `Claude API` `Claude Vision` `OpenAI Whisper` `n8n` `Evolution API` `Supabase` `HKDF` `Conversational AI` `JSONB`
