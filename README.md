@@ -118,6 +118,10 @@ Prompts para NLP em português brasileiro informal — testados em produção. R
 
 `Prompt Engineering` `NLP` `Portuguese` `LLM` `Structured Extraction` `Claude API`
 
+### [whatsapp-intent-router-patterns](https://github.com/ggabriell07/whatsapp-intent-router-patterns)
+Arquitetura de roteamento de intenção para bots de WhatsApp com fluxos críticos — roteador determinístico, estado conversacional, fallback restrito e variações de mensagem. Padrão aplicado em bot financeiro comportamental em produção.
+`WhatsApp` `n8n` `Supabase` `NLP` `Portuguese` `Conversational AI` `Intent Detection` `Bot Architecture`
+
 ---
 
 ## Experiência
