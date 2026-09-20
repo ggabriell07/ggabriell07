@@ -58,31 +58,39 @@ The product is designed to help users make more deliberate financial decisions b
 
 ## Selected public engineering work
 
-### [HermesHub](https://github.com/ggabriell07/hermeshub)
+### [Flectos](https://github.com/ggabriell07/flectos) · Flagship AI product
 
-AI-powered content SaaS integrating Claude, Instagram Graph API, OAuth2, Supabase and React.
+Behavioral Decision Intelligence platform combining conversational AI, multimodal processing, deterministic routing, persistent state and production observability.
 
-Highlights include contextual generation, AES-GCM-256 encrypted token storage and automated deployment through GitHub Actions.
+The public repository now includes sanitized Python reference code, regression tests, an evaluation dataset, GitHub Actions and architecture documentation.
 
-### [whatsapp-intent-router-patterns](https://github.com/ggabriell07/whatsapp-intent-router-patterns)
+### [whatsapp-intent-router-patterns](https://github.com/ggabriell07/whatsapp-intent-router-patterns) · Executable AI routing pattern
 
-Hybrid intent-routing architecture for conversational AI systems with deterministic routing, state-aware flows, restricted fallback and operational guardrails.
+Deterministic-first, state-aware intent routing for conversational AI systems.
 
-### [n8n-whatsapp-patterns](https://github.com/ggabriell07/n8n-whatsapp-patterns)
+Includes executable JavaScript, PT-BR regression cases, a public evaluation dataset and CI.
 
-Production patterns for WhatsApp + n8n systems, including encrypted media handling, multimodal processing and stateful conversational workflows.
+### [supabase-whatsapp-bot-schema](https://github.com/ggabriell07/supabase-whatsapp-bot-schema) · Data architecture pattern
 
-### [supabase-whatsapp-bot-schema](https://github.com/ggabriell07/supabase-whatsapp-bot-schema)
+PostgreSQL/Supabase reference architecture for persistent conversation state, structured events, behavioral signals, RLS and operational incident data.
 
-PostgreSQL/Supabase patterns for conversational AI products, including RLS, JSONB context, financial events and behavioral data.
+Includes real SQL schema files, indexes, RLS policies and database functions.
 
-### [llm-extraction-prompts](https://github.com/ggabriell07/llm-extraction-prompts)
+### [HermesHub](https://github.com/ggabriell07/hermeshub) · Secondary AI SaaS case
 
-Structured extraction patterns for financial data using LLMs and Brazilian Portuguese natural language.
+AI-assisted content SaaS case study integrating Claude, Instagram Graph API, OAuth2 and Supabase.
 
-### [portuguese-nlp-prompts](https://github.com/ggabriell07/portuguese-nlp-prompts)
+The public reference includes tested AES-256-GCM credential encryption and security architecture notes.
 
-NLP patterns for informal Brazilian Portuguese, including relative dates, monetary values, negation and installment extraction.
+### [n8n-whatsapp-patterns](https://github.com/ggabriell07/n8n-whatsapp-patterns) · Production integration patterns
+
+Reference patterns for WhatsApp transport, multimodal media handling, workflow state and operational guardrails.
+
+Includes tested HKDF media-key derivation and CI.
+
+### Reference material
+
+Additional public repositories contain focused notes on structured LLM extraction, Brazilian Portuguese NLP and Evolution API operations. They remain available as supporting material, but are not the primary engineering portfolio.
 
 ---
 
