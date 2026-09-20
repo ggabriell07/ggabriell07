@@ -1,70 +1,76 @@
 # Gabriel Speck
 
-**Applied AI Engineer · LLM Systems · Production AI · Financial Systems**
+**Applied AI Engineer | LLM Systems · AI Agents · Production AI | Python · PostgreSQL · Distributed Systems | Co-Founder @ Flectos**
 
 I build production-oriented AI systems that combine LLMs, deterministic logic, APIs, databases, observability and real product workflows.
 
-My background spans **7+ years in production systems and financial technology**, working with transactional platforms, REST APIs, Oracle/PLSQL, Kafka, incident analysis and observability. More recently, I have focused on applied AI: multimodal pipelines, conversational systems, structured extraction, LLM orchestration and behavioral decision products.
+My background spans **7+ years in production systems and financial technology**, working with transactional platforms, REST APIs, Oracle/PLSQL, Apache Kafka, incident analysis and observability. Today, I apply that production mindset to AI systems: reliability, predictable behavior, security, latency, cost and operational visibility matter as much as model capability.
 
-Based in Brazil and focused on international opportunities in **Applied AI Engineering, AI Engineering and Forward Deployed AI**.
-
----
-
-## What I build
-
-- Production LLM applications
-- Conversational AI with persistent state
-- Multimodal pipelines for text, audio and images
-- Hybrid AI architectures combining deterministic rules and LLMs
-- Structured data extraction and validation
-- AI-enabled backend workflows and APIs
-- Observability, operational guardrails and failure handling
-- PostgreSQL/Supabase data layers for AI products
-- Secure integrations with external APIs and OAuth2
+Based in Brazil and focused on international opportunities in **Applied AI Engineering, AI Engineering, Forward Deployed AI and AI Platform Engineering**.
 
 ---
 
-## Selected project
+## What I bring
 
-### [Flectos](https://github.com/ggabriell07/flectos)
+- **Production systems background** in financial technology and business-critical environments
+- **Applied AI product engineering** across conversational, multimodal and structured workflows
+- **Hybrid AI architecture** combining deterministic logic with LLM interpretation where it adds value
+- **Backend and data engineering** with PostgreSQL, Supabase, SQL/PLSQL and REST APIs
+- **Distributed systems exposure** with Apache Kafka and asynchronous integrations
+- **Operational reliability** through observability, incident analysis, guardrails and recovery workflows
+- **Cost-aware engineering** focused on using model inference only where it creates measurable value
 
-Behavioral Decision Intelligence platform currently running in closed beta.
+---
 
-Flectos helps users make better purchase decisions by combining conversational AI, behavioral signals, financial context and structured decision flows.
+## Flectos
 
-**Engineering highlights**
+### Co-Founder & Applied AI Engineer
 
-- Multimodal ingestion: text, audio and image
-- Audio transcription with OpenAI Whisper
-- Image understanding with Claude Vision
-- Persistent conversational context in PostgreSQL/Supabase
+[Flectos](https://github.com/ggabriell07/flectos) is a **Behavioral Decision Intelligence** platform currently running in closed beta.
+
+The product is designed to help users make more deliberate financial decisions before a purchase happens by combining conversational AI, behavioral signals, financial context and structured decision flows.
+
+**My engineering scope includes:**
+
+- AI and product architecture
+- Multimodal ingestion for text, audio and images
+- OpenAI Whisper transcription
+- Claude Vision image understanding
 - Hybrid intent routing: deterministic rules + LLM fallback
 - Structured financial data extraction
-- Behavioral decision workflows
+- Persistent conversational context in PostgreSQL/Supabase
+- Behavioral signal and decision-history modeling
 - Operational guardrails and incident logging
+- Internal Ops tooling for support and recovery
 - WhatsApp orchestration with n8n and Evolution API
 - Web dashboard and PWA layers
-- Production-oriented observability and operational tooling
+- Production-oriented observability
+- Cost-aware LLM orchestration
 
-`LLM Systems` `Conversational AI` `Multimodal AI` `PostgreSQL` `Supabase` `n8n` `Whisper` `Claude Vision` `Observability`
+**Engineering principle:** use deterministic logic for deterministic problems, and LLMs where interpretation creates real value.
+
+**Core:** LLM Systems · Conversational AI · Multimodal AI · PostgreSQL · Supabase · Whisper · Claude Vision · n8n · Observability
+
+**Product:** https://flectos.com.br  
+**Engineering case study:** https://github.com/ggabriell07/flectos
 
 ---
 
-## Other work
+## Selected public engineering work
 
 ### [HermesHub](https://github.com/ggabriell07/hermeshub)
 
 AI-powered content SaaS integrating Claude, Instagram Graph API, OAuth2, Supabase and React.
 
-Highlights include encrypted token storage with AES-GCM-256, contextual content generation and automated deployment through GitHub Actions.
-
-### [n8n-whatsapp-patterns](https://github.com/ggabriell07/n8n-whatsapp-patterns)
-
-Production patterns for WhatsApp + n8n systems, including encrypted media handling, multimodal processing and conversational workflows.
+Highlights include contextual generation, AES-GCM-256 encrypted token storage and automated deployment through GitHub Actions.
 
 ### [whatsapp-intent-router-patterns](https://github.com/ggabriell07/whatsapp-intent-router-patterns)
 
 Hybrid intent-routing architecture for conversational AI systems with deterministic routing, state-aware flows, restricted fallback and operational guardrails.
+
+### [n8n-whatsapp-patterns](https://github.com/ggabriell07/n8n-whatsapp-patterns)
+
+Production patterns for WhatsApp + n8n systems, including encrypted media handling, multimodal processing and stateful conversational workflows.
 
 ### [supabase-whatsapp-bot-schema](https://github.com/ggabriell07/supabase-whatsapp-bot-schema)
 
@@ -82,78 +88,109 @@ NLP patterns for informal Brazilian Portuguese, including relative dates, moneta
 
 ## Engineering stack
 
-**Applied AI**
+**Applied AI**  
+LLM Applications · Conversational AI · Multimodal AI · Structured Extraction · Prompt Engineering · System Prompt Design
 
-`LLM Applications` · `Conversational AI` · `Multimodal AI` · `Structured Extraction` · `Prompt Engineering` · `System Prompt Design`
+**Backend & Data**  
+Python · PostgreSQL · Supabase · Oracle · PL/SQL · REST APIs
 
-**Backend & Data**
+**Distributed Systems & Integration**  
+Apache Kafka · Webhooks · n8n · Evolution API · OAuth2
 
-`Python` · `PostgreSQL` · `Supabase` · `PL/SQL` · `REST APIs` · `Kafka`
+**Production & Observability**  
+Linux · Docker · GitHub Actions · Grafana · Kibana · AKHQ · VPS
 
-**Production & Observability**
-
-`Linux` · `Docker` · `GitHub Actions` · `Grafana` · `Kibana` · `AKHQ` · `VPS`
-
-**Product & Integration**
-
-`React` · `TypeScript` · `n8n` · `Evolution API` · `OAuth2`
+**Product Engineering**  
+React · TypeScript · Next.js · PWA
 
 ---
 
 ## Production systems background
 
 ### Matera · Systems Analyst
-**2022 – present**
+**Jul 2022 – Present**
 
-Work on transactional systems for the financial sector, including:
+Work with business-critical financial systems and production environments.
 
 - Production troubleshooting for Java/Spring services
-- REST API analysis
+- REST API and integration analysis
 - Oracle/PLSQL investigation and optimization
-- Kafka-based asynchronous integrations
+- Apache Kafka asynchronous integrations
 - Observability with Grafana, Kibana and AKHQ
-- Incident analysis in business-critical environments
+- Incident investigation and root-cause analysis
+- Financial systems where reliability and data integrity are critical
 
 ### DXC Technology · Application Management Analyst
-**2021 – 2022**
+**Jun 2021 – Jul 2022**
 
-Automation, PL/SQL, Python, ITSM processes and enterprise service operations.
+- Process automation with Python and SQL/PLSQL
+- Enterprise application and database incident investigation
+- SLA-driven production environments
+- ITSM, incident and problem-management processes
 
 ### Softplan · IT Services Analyst
-**2019 – 2021**
+**Mar 2019 – Jun 2021**
 
-SQL analysis, environment validation, incident investigation and technical support for legal-sector systems.
+- SQL-based diagnosis and data investigation
+- Production incident troubleshooting
+- Environment validation and homologation
+- Customer-facing technical analysis for legal-sector systems
+
+---
+
+## Education & selected credentials
+
+**Data Science** · Descomplica Faculdade Digital · 2024–2026  
+**Systems Analysis and Development** · Estácio de Sá · 2018–2020
+
+Selected credentials:
+
+- **Cloud Computing** · Descomplica Faculdade Digital · 2025
+- **Current Account Fundamentals** · Matera · 2025
+- **Modelling Data Developer** · Descomplica Faculdade Digital · 2025
+- **Apache Kafka Messaging** · Alura · 2024
+- **Hiring Coders Full Stack Development** · Gama Academy · 2021
+- **SQL with Oracle Database** · Alura · 2021
+- **ITIL Foundation in IT Service Management** · AXELOS · 2019
 
 ---
 
 ## Current engineering focus
 
-I am currently deepening my work in:
+I am currently deepening my work in areas that will be demonstrated through public, reproducible projects:
 
 - Python for AI backends
-- AI agents and tool-using systems
-- Retrieval-Augmented Generation
-- LLM evaluation
-- Production AI observability
 - FastAPI
+- Retrieval-Augmented Generation
+- AI agents and tool-using systems
+- Model Context Protocol
+- LLM evaluation and regression testing
+- Production AI observability
 - Dockerized AI services
 - Cloud architecture for AI workloads
+- PyTorch and model fine-tuning
 
-These areas will be documented through public, reproducible projects rather than listed as completed expertise before implementation.
+I prefer to document these areas with working systems, tests, metrics and live demos rather than list them as completed expertise before implementation.
 
 ---
 
-## Education
+## How I approach AI engineering
 
-**Systems Analysis and Development** · Estácio de Sá · 2020  
-**Data Science** · Descomplica Faculdade Digital · in progress
-
-Selected training: ITIL Foundation · Apache Kafka · Deep Learning & Neural Networks · Cloud Computing · Oracle SQL
+1. Use deterministic logic for deterministic problems.
+2. Use LLMs where interpretation creates measurable value.
+3. Persist state explicitly in multi-step systems.
+4. Treat evaluation as part of engineering, not an afterthought.
+5. Make AI behavior observable in production.
+6. Design for failure, retries and recovery.
+7. Track latency and inference cost as architecture constraints.
+8. Keep security and data exposure in the system design.
+9. Prefer reproducible engineering evidence over framework-heavy demos.
+10. Build systems that can be explained, tested and operated.
 
 ---
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/gabrielspeck)
+[LinkedIn](https://linkedin.com/in/gabrielspeck) · [Flectos](https://flectos.com.br)
 
 Brazil · Open to international and remote AI Engineering opportunities
